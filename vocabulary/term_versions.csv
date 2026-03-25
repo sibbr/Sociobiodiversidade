@@ -1,2 +1,38 @@
 Termos extensão DwC da Sociobiodiversidade
- 
+
+#### language
+<table>
+  <tr ="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/4">language</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dc:language"
+        >https://dwc.tdwg.org/terms/#dc:language</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">A língua do recurso.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">pt | en | es</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>pt: Português</li>
+          <li>en: Inglês</li>
+          <li>es: Espanhol</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table> 
