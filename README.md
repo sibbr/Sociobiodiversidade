@@ -1,10 +1,38 @@
-# Sociobiodiversity Data Standard
+# Extensão DwC para Sociobiodiversidade  
+# Extensión DwC para Sociobiodiversidad  
+# DwC Extension for Sociobiodiversity
 
-A vocabulary and data standard for organizing and sharing information about sociobiodiversity, integrating scientific names, vernacular names, and traditional uses of species within their cultural and ecological contexts.
+---
 
-## Overview
+## 🌎 Idioma | Idioma | Language
 
-This project develops a standardized framework for documenting sociobiodiversity—the variety and relationships between biological resources, associated traditional knowledge, cultural practices, and human communities. The standard aligns with international frameworks including the Darwin Core, the Nagoya Protocol, and CARE Principles for Indigenous Data Sovereignty.
+- [Português](#-português)
+- [Español](#-español)
+- [English](#-english)
+
+---
+
+## 🇧🇷 Português
+
+### Visão Geral
+
+Este projeto desenvolve um framework padronizado para documentar a sociobiodiversidade — a diversidade de recursos biológicos e suas relações com conhecimentos tradicionais, práticas culturais e comunidades humanas. O framework apoia a organização e o compartilhamento dessas informações, alinhando-se a padrões e princípios reconhecidos internacionalmente, como o Darwin Core, o Protocolo de Nagoya e os Princípios CARE para a Soberania de Dados Indígenas.
+
+---
+
+## 🇪🇸 Español
+
+### Resumen
+
+Este proyecto desarrolla un marco estandarizado para documentar la sociobiodiversidad — la diversidad de recursos biológicos y sus relaciones con los conocimientos tradicionales, las prácticas culturales y las comunidades humanas. El marco facilita la organización y el intercambio de esta información, alineándose con estándares y principios reconocidos internacionalmente, como Darwin Core, el Protocolo de Nagoya y los Principios CARE para la Soberanía de Datos Indígenas.
+
+---
+
+## 🇺🇸 English
+
+### Overview
+
+This project develops a standardized framework for documenting sociobiodiversity—the diversity of biological resources and their relationships with traditional knowledge, cultural practices, and human communities. The framework supports the organization and sharing of this information, while aligning with internationally recognized standards and principles, including Darwin Core, the Nagoya Protocol, and the CARE Principles for Indigenous Data Sovereignty.
 
 ## Key Features
 
