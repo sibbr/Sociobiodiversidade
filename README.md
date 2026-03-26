@@ -86,7 +86,7 @@ This project develops a standardized framework for documenting sociobiodiversity
 
 The vocabulary, definitions, and translations are available in the `vocabulary/` directory. The documents include:
 
-- **Extension terms with definitions in Portuguese, English, and Spanish**: provides standardized definitions for all newly introduced terms  
+- **Extension terms with definitions**: provides standardized definitions for all newly introduced terms  
 - **Term: organismPart**: describes the part of the organism used or referenced (e.g., leaf, root, bark)  
 - **Term: sourceType**: defines the origin or source of the information or resource (e.g., field observation, literature, traditional knowledge)  
 - **Term: usedByType**: identifies the type of actor or community that uses the resource (e.g., local community, indigenous group)  
