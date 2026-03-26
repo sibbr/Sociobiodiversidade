@@ -1,6 +1,6 @@
+# DwC Extension for Sociobiodiversity  
 # Extensão DwC para Sociobiodiversidade  
-# Extensión DwC para Sociobiodiversidad  
-# DwC Extension for Sociobiodiversity
+# Extensión DwC para la Sociobiodiversidad  
 
 ---
 
@@ -18,6 +18,14 @@
 
 Este projeto desenvolve um framework padronizado para documentar a sociobiodiversidade — a diversidade de recursos biológicos e suas relações com conhecimentos tradicionais, práticas culturais e comunidades humanas. O framework apoia a organização e o compartilhamento dessas informações, alinhando-se a padrões e princípios reconhecidos internacionalmente, como o Darwin Core, o Protocolo de Nagoya e os Princípios CARE para a Soberania de Dados Indígenas.
 
+### ✨ Principais Características
+
+- **Terminologia Abrangente**: Define termos para espécies, usos tradicionais, detentores de conhecimento e práticas culturais  
+- **Suporte Multilíngue**: Estrutura para múltiplos idiomas e nomes vernaculares  
+- **Alinhamento com Padrões**: Compatível com Darwin Core, GBIF e padrões internacionais de biodiversidade  
+- **Desenvolvimento Colaborativo**: Construído em colaboração com comunidades indígenas e especialistas em biodiversidade  
+- **Base Ética**: Incorpora princípios de acesso e repartição de benefícios  
+
 ---
 
 ## 🇪🇸 Español
@@ -25,6 +33,14 @@ Este projeto desenvolve um framework padronizado para documentar a sociobiodiver
 ### Resumen
 
 Este proyecto desarrolla un marco estandarizado para documentar la sociobiodiversidad — la diversidad de recursos biológicos y sus relaciones con los conocimientos tradicionales, las prácticas culturales y las comunidades humanas. El marco facilita la organización y el intercambio de esta información, alineándose con estándares y principios reconocidos internacionalmente, como Darwin Core, el Protocolo de Nagoya y los Principios CARE para la Soberanía de Datos Indígenas.
+
+### ✨ Características Clave
+
+- **Terminología Integral**: Define términos para especies, usos tradicionales, portadores de conocimiento y prácticas culturales  
+- **Soporte Multilingüe**: Marco para múltiples idiomas y nombres comunes  
+- **Alineación con Estándares**: Compatible con Darwin Core, GBIF y estándares internacionales de biodiversidad  
+- **Desarrollo Colaborativo**: Desarrollado en conjunto con comunidades indígenas y especialistas en biodiversidad  
+- **Marco Ético**: Incorpora principios de acceso y distribución de beneficios  
 
 ---
 
@@ -34,13 +50,14 @@ Este proyecto desarrolla un marco estandarizado para documentar la sociobiodiver
 
 This project develops a standardized framework for documenting sociobiodiversity—the diversity of biological resources and their relationships with traditional knowledge, cultural practices, and human communities. The framework supports the organization and sharing of this information, while aligning with internationally recognized standards and principles, including Darwin Core, the Nagoya Protocol, and the CARE Principles for Indigenous Data Sovereignty.
 
-## Key Features
+### ✨ Key Features
 
-- **Comprehensive Terminology**: Defines terms for species, traditional uses, knowledge holders, and cultural practices
-- **Multilingual Support**: Framework for supporting multiple languages and vernacular names
-- **Standards Alignment**: Compatible with Darwin Core, GBIF, and international biodiversity standards
-- **Community-Driven**: Developed collaboratively with indigenous communities and biodiversity specialists
-- **Ethical Framework**: Incorporates access and benefit-sharing principles
+- **Comprehensive Terminology**: Defines terms for species, traditional uses, knowledge holders, and cultural practices  
+- **Multilingual Support**: Supports multiple languages and vernacular names  
+- **Standards Alignment**: Compatible with Darwin Core, GBIF, and international biodiversity standards  
+- **Community-Driven**: Developed in collaboration with indigenous communities and biodiversity specialists  
+- **Ethical Framework**: Incorporates access and benefit-sharing principles  
+---
 
 ## Project Structure
 
@@ -62,29 +79,28 @@ This project develops a standardized framework for documenting sociobiodiversity
 - **docs/**: Markdown source files for the Jekyll documentation site
 - **reports/**: Technical implementation documentation and case studies
 
-## Use Cases
 
-1. **Scientific Research**: Document species interactions with traditional knowledge systems
-2. **Conservation Planning**: Integrate traditional ecological knowledge with biodiversity conservation
-3. **Policy Development**: Support implementation of access and benefit-sharing frameworks
-4. **Data Standardization**: Enable interoperability of sociobiodiversity databases across regions
-5. **Community Empowerment**: Protect and formalize traditional knowledge
-
-## Getting Started
+## How to Use and Validate
 
 ### Basic Vocabulary Access
 
-The vocabulary is defined in `vocabulary/term_versions.csv`. Key term categories include:
+The vocabulary, definitions, and translations are available in the `vocabulary/` directory. The documents include:
 
-- **Core Concepts**: Sociobiodiversity, Indigenous Knowledge, Biocultural Heritage
-- **Taxonomy**: Scientific Name, Vernacular Name, Taxonomic Classification
-- **Traditional Uses**: Medicinal, Food, Ritual, Craft, and Agricultural applications
-- **Knowledge Systems**: Traditional Knowledge, Customary Practices, Cultural Values
-- **Governance**: Access and Benefit Sharing, Intellectual Property Rights, Protocols
+- **Extension terms with definitions in Portuguese, English, and Spanish**: provides standardized definitions for all newly introduced terms  
+- **Term: organismPart**: describes the part of the organism used or referenced (e.g., leaf, root, bark)  
+- **Term: sourceType**: defines the origin or source of the information or resource (e.g., field observation, literature, traditional knowledge)  
+- **Term: usedByType**: identifies the type of actor or community that uses the resource (e.g., local community, indigenous group)  
+- **Term: usedTo**: specifies the purpose or type of use of the resource (e.g., medicinal, food, ritual)  
 
 ### Viewing Terms
 
 To view available terms, check the generated documentation files in `dist/` or visit the website documentation in `docs/`.
+
+## Use Cases
+
+1. **Use Case 1**: XXXXX
+2. **Use Case 2**: XXXX
+3. **Use Case 3**: XXXXX
 
 ## Contributing
 
