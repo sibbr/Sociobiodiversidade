@@ -1,7 +1,6 @@
-# DwC Extension for Sociobiodiversity  
 # Extensão DwC para Sociobiodiversidade  
 # Extensión DwC para la Sociobiodiversidad  
-
+# DwC Extension for Sociobiodiversity  
 ---
 
 ## 🌎 Idioma | Idioma | Language
