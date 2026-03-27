@@ -59,7 +59,6 @@ Para cada termo apresentado:
           </li>
           <li>
             Combustível
-            >
           </li>
         </ul>
       </td>
@@ -129,14 +128,14 @@ Para cada termo apresentado:
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">AAAA-MM-DD</td>
+      <td style="text-align: left">Planta Inteira | Sementes | Raízes | Caules | Cascas | Folhas | Flores | Frutos | Exudados | Partes aéreas não especificadas | Galhas | Mudas ou sementes germinadas | Outras partes de planta </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>2023-07-06</li>
-          <li>2022-04-23</li>
+          <li>Sementes</li>
+          <li>Raízes</li>
         </ul>
       </td>
     </tr>
@@ -479,12 +478,12 @@ Para cada termo apresentado:
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Link]</td>
+      <td style="text-align: left">Fonte comunitária | Publicação acadêmica | Publicação não acadêmica | Livro | Relatório/Documento Técnico | Documento legal | Material visual | Material audiovisual | Conjunto de dados (dataset) | Comunicação pessoal</td>
     </tr>
     <tr>
        <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <ul>https://example.com/new?title=New+issue&body=This+comment+is+about+CAN12345</li>
+        <ul>Fonte comunitária</li>
         </ul>
       </td>
     </tr>
