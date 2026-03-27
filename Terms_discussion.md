@@ -279,16 +279,16 @@ Para cada termo apresentado:
       <td style="text-align: left">Sementes</td>
       <td style="text-align: left">
         <ul>
-          <li>Sementes</li>
-          <li>Seeds</li>
-          <li>Semillas</li>
+          <li>Sementes: Estrutura reprodutiva resultante da fecundação, desenvolvimento e amadurecimento do óvulo, capaz de gerar uma nova planta. Inclui sementes inteiras e outras partes da semente.</li>
+          <li>Seeds: Reproductive structure formed after fertilization, development, and maturation of the ovule, capable of generating a new plant. Includes whole seeds and other parts of the seed.</li>
+          <li>Semillas: Estructura reproductiva formada tras la fecundación, el desarrollo y la maduración del óvulo, capaz de generar una nueva planta. Incluye semillas enteras y otras partes de la semilla.</li>
           <tr>
       <td style="text-align: left">Raízes</td>
       <td style="text-align: left">
         <ul>
-          <li>Raízes</li>
-          <li>Roots</li>
-          <li>Raíces</li>
+          <li>Raízes: Órgão de fixação do vegetal ao solo, de onde retira água e nutrientes minerais. Inclui raízes descascadas, bulbos, tubérculos, nódulos, raízes aéreas, pneumatóforos, rizomas e outras partes da raiz.</li>
+          <li>Roots: Organ of the plant that anchors it to the soil and absorbs water and mineral nutrients. Includes peeled roots, bulbs, tubers, nodules, aerial roots, pneumatophores, rhizomes, and other root parts.</li>
+          <li>Raíces: Órgano que fija la planta al suelo y absorbe agua y nutrientes minerales. Incluye raíces peladas, bulbos, tubérculos, nódulos, raíces aéreas, neumatóforos, rizomas y otras partes de la raíz.</li>
           <tr>
       <td style="text-align: left">Caules</td>
       <td style="text-align: left">
@@ -318,19 +318,51 @@ Para cada termo apresentado:
           <li>Flowers</li>
           <li>Flores</li>
           <tr>
-      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">Frutos</td>
       <td style="text-align: left">
         <ul>
-          <li>Sementes</li>
-          <li>Raízes</li>
-          <li>Raízes</li>
+          <li>Frutos</li>
+          <li>Fruits</li>
+          <li>Frutos</li>
           <tr>
-      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">Exsudatos</td>
       <td style="text-align: left">
         <ul>
-          <li>Sementes</li>
-          <li>Raízes</li>
-          <li>Raízes</li>
+          <li>Exsudato</li>
+          <li>Exudates</li>
+          <li>Exudados</li>
+        </ul>
+        <tr>
+      <td style="text-align: left">Partes aéreas não especificadas</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Partes aéreas não especificadas</li>
+          <li>Unspecified aerial part</li>
+          <li>Parte aérea no especificada</li>
+        </ul>
+           <tr>
+      <td style="text-align: left">Galhas</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Galhas</li>
+          <li>Galls</li>
+          <li>Agallas</li>
+        </ul>
+           <tr>
+      <td style="text-align: left"> Mudas ou sementes germinadas</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Mudas ou sementes germinadas</li>
+          <li>Seedlings or germinated seeds</li>
+          <li>Plántulas o semillas germinadas</li>
+        </ul>
+           <tr>
+      <td style="text-align: left">Outras partes da planta</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Outras partes da planta</li>
+          <li>Other plant parts</li>
+          <li>Otras partes de la planta</li>
         </ul>
       </td>
     </tr>
