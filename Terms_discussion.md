@@ -700,17 +700,33 @@ Para cada termo apresentado:
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Acrônimo da coleção]</td>
+      <td style="text-align: left">[Sobrenome, Inicial nome]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>RB</li>
-          <li>ZUEC-MAM</li>
           <li>
-            CBAM
+              <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
+              >Marquete, R</a
+            >
           </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
+              >	Ribeiro, F. Juliana | Vieira, E. Emerson</a
+            >
+          </li>
+          <li>
+              <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/34c20a2b-f1b3-4db3-adcd-f6fddbf534b1"
+              >Zikan, J.F.</a
+            <
+            </li>
+              <li>
+                Clara Baringo
+              </li>
         </ul>
       </td>
     </tr>
@@ -720,9 +736,9 @@ Para cada termo apresentado:
 ---
 #### eventDate
 <table>
-  <tr ="table-secondary">
+  <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/15"
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/55"
         >eventDate</a
       >
     </th>
@@ -730,8 +746,8 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:ownerInstitutionCode"
-        >https://dwc.tdwg.org/terms/#dwc:ownerInstitutionCode</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventDate"
+        >https://dwc.tdwg.org/terms/#dwc:eventDate</a
       >
     </td>
   </tr>
@@ -739,26 +755,37 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-      A data ou intervalo de datas em que a informação foi documentada, independentemente de quando o fenômeno, prática ou conhecimento associado ocorreu originalmente.
+        A data ou intervalo de datas em que a informação foi documentada, independentemente de quando o fenômeno, prática ou conhecimento associado ocorreu originalmente.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"> [Nome completo da instituição]</td>
+      <td style="text-align: left">AAAA-MM-DD</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li> Universidade Federal de Minas Gerais </li>
-          <li> Universidade Federal do Espírito Santo </li>
-          <!-- <li>NA</li> -->
-        </ul>
+          <li>
+            <a
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e9c03e9b-1c42-4bc3-97c5-b6eec03867c4"
+              >Data com ano: 1890 </a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              > Data com ano e mês: 2006-04 </a>
+            </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
+            >Data completa: 2022-04-21</a>
+          </li>
+              </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
 ---
 #### language
 <table>
@@ -773,7 +800,7 @@ Para cada termo apresentado:
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
       <a href="https://dwc.tdwg.org/terms/#dwc:basisOfRecord"
-        >https://dwc.tdwg.org/terms/#dwc:basisOfRecord</a
+        >https://dwc.tdwg.org/terms/#dwc:language</a
       >
     </td>
   </tr>
@@ -787,24 +814,19 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | FossilSpecimen | MaterialEntity | Occurrence | MaterialCitation
+        pt | en | es
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>PreservedSpecimen: exsicata, espécime, cultivo.</li>
-          <li>MaterialSample: amostra de tecido, sangue, saliva, partes ósseas, cabelo, pena. </li>
+          <li>pt: Português
+          <li>en: Inglês </li>
           <li>
-            HumanObservation: registro sem coleta. Dados de inventário, evento de amostragem ou ciência cidadã.
+            es: Espanhol
           </li>
-          <li>MachineObservation: registro fotográfico, camera trap, gravação. </li>
-          <li>LivingSpecimen: zoológico, jardim botânico e coleções vivas. </li>
-          <li>
-            FossilSpecimen: registro de fóssil.
-          </li>
-        </ul>
+          </ul>
       </td>
     </tr>
   </tbody>
@@ -823,8 +845,8 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:informationWithheld"
-        >https://dwc.tdwg.org/terms/#dwc:informationWithheld</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:references"
+        >https://dwc.tdwg.org/terms/#dwc:references</a
       >
     </td>
   </tr>
@@ -865,7 +887,7 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:dataGeneralizations"
+      <a href="https://dwc.tdwg.org/terms/#dwc:associatedMedia"
         >https://dwc.tdwg.org/terms/#dwc:dataGeneralizations</a
       >
     </td>
