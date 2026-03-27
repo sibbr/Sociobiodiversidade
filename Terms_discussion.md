@@ -43,36 +43,22 @@ Para cada termo apresentado:
       <td style="text-align: left">
         <ul>
           <li>
-            Coleções de Zoologia:
-            <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/dr797"
-              >Coleção de Mamíferos do Museu Nacional da UFRJ</a
+            Medicinal
           </li>
           <li>
-            Herbários:
-            <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/dr839"
-              >Rio de Janeiro Botanical Garden Herbarium Collection</a
+            Ambiental
           </li>
           <li>
-            Subcoleções: <a href="https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895">Coleção Entomológica do MNRJ - Odonata</a>
+            Espiritual
           </li>
           <li>
-            Programa PELD:
-            <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/dr670"
-              >PELD - PNCA | Dados da ocorrência de Coleópteros em um gradiente de perturbação/precipitação em área de Caatinga, Parque Nacional do Catimbau, Buíque, PE, Brasil </a
-            >
+            Cuidados pessoais
           </li>
           <li>
-            Programa PPBio: <a href="https://collectory.sibbr.gov.br/collectory/public/show/dr651">PPBioMA | Morcegos no Parque Nacional da
-            Chapada dos Guimarães</a>
+            Fonte genética
           </li>
           <li>
-            Projeto de pesquisa:
-            <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/dr642"
-              >PREVIR | Monitoramento de Fauna do Projeto Rede de Vigilância de Vírus. Observatório Pantanal AVES MT-2</a
+            Combustível
             >
           </li>
         </ul>
@@ -394,19 +380,17 @@ Para cada termo apresentado:
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Referência bibliográfica]</td>
+      <td style="text-align: left">[Ribeirinhos | Quilombolas | Indígenas | Extrativistas | Pescadores artesanais | Caiçaras | Marisqueiras | Sitiantes]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
         <li>
-          Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 
+         Quilombolas
         </li>
           <li>
-            <a
-              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/02712d2c-69c6-4a4b-899f-da3cf945922c"
-              >http://www.tropicos.org/Specimen/3184430</a>
+            Indígenas
         </ul>
       </td>
     </tr>
