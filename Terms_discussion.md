@@ -371,14 +371,7 @@ Para cada termo apresentado:
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/4">organismPartDescription</a>
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dc:language"
-        >https://dwc.tdwg.org/terms/#dc:language</a
-      >
-    </td>
+     </td>
   </tr>
   <tbody>
     <tr>
@@ -409,13 +402,6 @@ Para cada termo apresentado:
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/5">usedForm</a>
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:license"
-        >https://dwc.tdwg.org/terms/#dcterms:license</a
-      >
     </td>
   </tr>
   <tbody>
@@ -467,13 +453,6 @@ Para cada termo apresentado:
         >usedFormDescription</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:rightsHolder"
-        >https://dwc.tdwg.org/terms/#dcterms:rightsHolder</a
-      >
     </td>
   </tr>
   <tbody>
@@ -524,13 +503,6 @@ Para cada termo apresentado:
         >usedByHolder</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:accessRights"
-        >https://dwc.tdwg.org/terms/#dcterms:accessRights</a
-      >
     </td>
   </tr>
   <tbody>
@@ -583,13 +555,6 @@ Para cada termo apresentado:
         >usedByType</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:bibliographicCitation"
-        >https://dwc.tdwg.org/terms/#dcterms:bibliographicCitation</a
-      >
     </td>
   </tr>
   <tbody>
@@ -627,13 +592,6 @@ Para cada termo apresentado:
         >usedByDescription</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:references"
-        >https://dwc.tdwg.org/terms/#dcterms:references</a
-      >
     </td>
   </tr>
   <tbody>
@@ -682,30 +640,101 @@ Para cada termo apresentado:
         >sourceType</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:feedbackURL"
-        >https://dwc.tdwg.org/terms/#dwc:feedbackURL</a
-      >
     </td>
   </tr>
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Refere-se à categoria da fonte por meio da qual obteve-se a informação sobre o táxon.
+        <ul>
+          <li>PT: Refere-se à categoria da fonte por meio da qual obteve-se a informação sobre o táxon. </li>
+          <li>EN: Academic research work, generally peer-reviewed, published as scientific articles, books or book chapters, technical reports, or graduate-level dissertations (stricto sensu).</li>
+          <li>ES: Trabajo de investigación académica, generalmente revisado por pares, difundido en forma de artículos científicos, libros o capítulos de libros, informes técnicos o tesis de posgrado (stricto sensu).</li>
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Fonte comunitária | Publicação acadêmica | Publicação não acadêmica | Livro | Relatório/Documento Técnico | Documento legal | Material visual | Material audiovisual | Conjunto de dados (dataset) | Comunicação pessoal</td>
+      <td style="text-align: left">Publicação acadêmica | Publicação não acadêmica | Livro | Relatório ou Documento Técnico | Documento legal | Material visual | Material audiovisual | Conjunto de dados (dataset) | Comunicação pessoal | Fonte comunitária </td>
     </tr>
     <tr>
-       <td style="text-align: left">Exemplos</td>
+       <td style="text-align: left">Publicação acadêmica</td>
       <td style="text-align: left">
-        <ul>Fonte comunitária</li>
+        <ul>
+          <li>Publicação acadêmica: Trabalho de pesquisa acadêmica, geralmente revisado por pares, divulgado em formato de artigos científicos, livros ou capítulos de livros, relatórios técnicos, trabalhos de conclusão de curso (stricto sensu).</li>
+          <li>Scholarly publication: Academic research work, generally peer-reviewed, published as scientific articles, books or book chapters, technical reports, or graduate-level dissertations (stricto sensu). </li>
+          <li>Publicación académica: Trabajo de investigación académica, generalmente revisado por pares, difundido en forma de artículos científicos, libros o capítulos de libros, informes técnicos o tesis de posgrado (stricto sensu). </li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Publicação não acadêmica</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Publicação não acadêmica: Material informativo (texto ou obra) divulgado fora dos canais formais de pesquisa, que geralmente não passa por revisão por pares, direcionado para o público em geral.</li>
+          <li>Non-academic publication: Informational material (text or work) released outside formal research channels, usually not peer-reviewed, and intended for the general public.</li>
+          <li>Publicación no académica:Material informativo (texto u obra) difundido fuera de los canales formales de investigación, generalmente sin revisión por pares y dirigido al público en general.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Livro</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Livro:Apresentação estruturada de informações, com textos e/ou imagens, que forma uma publicação (obra completa), impressa ou digital.</li>
+          <li>Book: A structured presentation of information, with text and/or images, forming a complete publication, either printed or digital.</li>
+          <li>Libro: Presentación estructurada de información, con textos y/o imágenes, que constituye una publicación completa, impresa o digital.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Relatório ou documento técnico</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Relatório ou documento técnico Registro formal e detalhado, elaborado por organizações, governos ou pesquisadores, que apresenta resultados de um projeto, pesquisa ou processo específico, frequentemente fora do circuito de periódicos científicos.</li>
+          <li>Technical report or document: A formal and detailed record prepared by organizations, governments, or researchers, presenting the results of a specific project, study, or process, often outside scientific journal publications. </li>
+          <li>Fonte comunitária: Registro formal y detallado elaborado por organizaciones, gobiernos o investigadores, que presenta los resultados de un proyecto, estudio o proceso específico, normalmente fuera de las revistas científicas.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Documento legal</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Documento legal: Registros oficiais com validade jurídica ou normativa que estabelece, modifica ou comprova direitos e deveres.</li>
+          <li>Legal document: Official records with legal or regulatory validity that establish, modify, or verify rights and obligations.</li>
+          <li>Documento legal: Registros oficiales con validez jurídica o normativa que establecen, modifican o comprueban derechos y obligaciones.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Material visual</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Material visual: Representações gráficas ou imagéticas estáticas.</li>
+          <li>Visual material: Static graphic or visual representations. </li>
+          <li>Material visual: Representaciones gráficas o visuales estáticas.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Material audiovisual</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Material audiovisual: Materiais que combinam som e/ou imagem em movimento.</li>
+          <li>Audiovisual material: Materials that combine sound and/or moving image. </li>
+          <li>Material audiovisual: Materiales que combinan sonido y/o imagen en movimiento.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Base de dados</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Base de dados: Coleção estruturada de informações relacionadas, organizadas de forma coerente para serem analisadas, processadas ou utilizadas como base para pesquisa e experimentação.</li>
+          <li>Database: A structured collection of related information, organized in a coherent way to be analyzed, processed, or used as a basis for research and experimentation.</li>
+          <li>Base de datos: Colección estructurada de información relacionada, organizada de manera coherente para ser analizada, procesada o utilizada como base para investigación y experimentación.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Comunicação pessoal</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Comunicação pessoal: Processo de troca de informações e significados que ocorre diretamente entre pessoas ou em pequenos grupos, utilizando linguagem verbal e/ou não verbal.</li>
+          <li>Personal communication: A process of exchanging information and meaning that occurs directly between people or in small groups, using verbal and/or nonverbal language.</li>
+          <li>Comunicación personal: Proceso de intercambio de información y significados que ocurre directamente entre personas o en pequeños grupos, utilizando lenguaje verbal y/o no verbal.</li>
+        </ul>
+        <tr>
+       <td style="text-align: left">Fonte comunitária</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Fonte comunitária: Registros de conhecimentos realizados por meio de oficinas, reuniões, cursos de formação e encontros com representantes da comunidade.</li>
+          <li>Community source: Records of knowledge obtained through workshops, meetings, training courses, and gatherings with community representatives.</li>
+          <li>Fuente comunitaria: Registros de conocimientos realizados mediante talleres, reuniones, cursos de formación y encuentros con representantes de la comunidad.</li>
         </ul>
       </td>
     </tr>
