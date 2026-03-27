@@ -14,51 +14,187 @@ Para cada termo apresentado:
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/1" target="_blank" rel="noopener noreferrer"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/1" target="_blank" rel="noopener noreferrer"
         >usedTo</a
-      >
+     >
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:datasetName"
-        >https://dwc.tdwg.org/terms/#dwc:datasetName</a
-      >
-    </td>
   </tr>
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-       Refere-se à finalidade ou propósito de uso do táxon (uso passado, atual ou contínuo).
+        <ul>
+       <li> PT: Refere-se à finalidade ou propósito de uso do táxon (uso passado, atual ou contínuo).</li>
+        <li>EN: Refers to the purpose or intended use of the táxon (past, current, or ongoing use). </li>
+        <li>ES: Se refiere a la finalidad o propósito de uso del taxón (uso pasado, actual o continuo).</li>
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Finalidade de uso do táxon]</td>
+      <td style="text-align: left">Medicinal | Alimentício | Tecnologia social | Combustíveis | Ambiental | Fonte genética | Ornamental | Tóxico | Espiritual | Lúdico | Cuidados pessoais | Químico | Outros </td>
     </tr>
     <tr>
-      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">Medicinal</td>
       <td style="text-align: left">
         <ul>
           <li>
-            Medicinal
+            Medicinal: Táxon usado para produção de remédios caseiros e realização de práticas medicinais com o propósito de prevenir, tratar e curar doenças em humanos e animais, assim como aliviar os sintomas associados às doenças. 
           </li>
           <li>
-            Ambiental
+            Medicinal: Taxon used for the production of home remedies and the practice of medicinal techniques with the purpose of preventing, treating, and curing diseases in humans and animals, as well as alleviating symptoms associated with illnesses.
           </li>
           <li>
-            Espiritual
+            Medicinal: Taxón usado para la producción de remedios caseros y la realización de prácticas medicinales con el propósito de prevenir, tratar y curar enfermedades en humanos y animales, así como aliviar los síntomas asociados a las enfermedades.
+          </li>
+          <tr>
+      <td style="text-align: left">Alimentício</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            Alimentício:Táxon usado para consumo alimentar direto ou como ingrediente para preparação de alimentos derivados, com o propósito de proporcionar segurança alimentar a humanos e animais.
           </li>
           <li>
-            Cuidados pessoais
+            Food: Taxon used for direct food consumption or as an ingredient in the preparation of derived foods, with the purpose of providing food security for humans and animals.
           </li>
           <li>
-            Fonte genética
+            Alimentario: Taxón usado para consumo alimenticio directo o como ingrediente en la preparación de alimentos derivados, con el propósito de proporcionar seguridad alimentaria a humanos y animales.
+          </li>
+          <tr>
+      <td style="text-align: left">Tecnologia social</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            Tecnologia social: Táxon usado para produzir materiais e desenvolver técnicas relacionadas à cultura e autogestão econômica da comunidade. Não inclui usos Combustível, Ambiental e Ornamental, que estão descritos em categorias separadas.
           </li>
           <li>
-            Combustível
+            Social technology: Taxon used to produce materials and develop techniques related to the culture and economic self-management of the community. Does not include Fuel, Environmental, or Ornamental uses, which are described in separate categories.
+          </li>
+          <li>
+            Tecnología social: Taxón usado para producir materiales y desarrollar técnicas relacionadas con la cultura y la autogestión económica de la comunidad. No incluye los usos Combustible, Ambiental y Ornamental, que se describen en categorías separadas.
+          </li>
+          <tr>
+            <td style="text-align: left">Combustível</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            Combustível: Táxon usado para gerar energia por meio da combustão, extração de bioenergia ou outros métodos.
+          </li>
+          <li>
+            Fuel: Taxon used to generate energy through combustion, bioenergy extraction, or other methods.
+          </li>
+          <li>
+            Combustible: Taxón utilizado para generar energía mediante combustión, extracción de bioenergía u otros métodos.
+          </li>
+         <tr>
+            <td style="text-align: left">Ambiental</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            Ambiental: Táxon usados para manter o equilíbrio dos ecossistemas, em atividades de reflorestamento, recuperação e remediação ambiental após impactos ecológicos. Foi separado de Tecnologia Social devido à sua importância para as comunidades.
+          </li>
+          <li>
+           Environmental: Taxon used to maintain ecosystem balance, in reforestation, environmental recovery, and remediation activities following ecological impacts. It was separated from Social Technology due to its importance for communities.
+          </li>
+          <li>
+            Ambiental: Taxón usado para mantener el equilibrio de los ecosistemas, en actividades de reforestación, recuperación y remediación ambiental tras impactos ecológicos. Se separó de Tecnología Social debido a su importancia para las comunidades.
+          </li>
+          <tr>
+            <td style="text-align: left">Fonte genética</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+           Fonte genética: Táxon que possui características ou qualidades importantes, como resistência a doenças, tolerância a temperaturas extremas, etc., cujo valor é aproveitado para projetos de melhoramento genético.
+          <li>
+           Genetic source: Taxon that possesses important traits or qualities, such as disease resistance, tolerance to extreme temperatures, etc., whose value is utilized for genetic improvement projects.
+          </li>
+          <li>
+          Fuente genética: Taxón que posee características o cualidades importantes, como resistencia a enfermedades, tolerancia a temperaturas extremas, etc., cuyo valor se aprovecha en proyectos de mejoramiento genético.
+          </li>
+          <tr>
+            <td style="text-align: left">Ornamental</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+          Ornamental: Táxon usadas com finalidade estética para decoração de ambientes, paisagismo e jardinagem.
+          <li>
+          Ornamental: Taxon used for aesthetic purposes in interior decoration, landscaping, and gardening.
+          </li>
+          <li>
+          Ornamental: Taxón usado con fines estéticos para la decoración de ambientes, paisajismo y jardinería.
+          </li>
+          <tr>
+            <td style="text-align: left">Tóxico</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+         Tóxico: Táxon para produzir compostos tóxicos, que provocam envenenamento, irritação, alergia, formigamento ou efeito repelente.
+          <li>
+         Toxic: Taxon used to produce toxic compounds that cause poisoning, irritation, allergy, tingling, or repellent effects.
+          </li>
+          <li>
+          Tóxico: Taxón usado para producir compuestos tóxicos que provocan envenenamiento, irritación, alergia, cosquilleo o efecto repelente.
+          </li>
+          <tr>
+            <td style="text-align: left">Espiritual</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+         Espiritual: Táxon usado para práticas de cura espiritual, tratamento de doenças culturais, assim como rituais, cerimônias e usos simbólicos, com significado cultural. 
+          <li>
+         Spiritual: Taxon used for spiritual healing practices, treatment of culturally recognized illnesses, as well as rituals, ceremonies, and symbolic uses, with cultural significance.
+          </li>
+          <li>
+          Espiritual: Taxón usado para prácticas de curación espiritual, tratamiento de enfermedades culturales, así como rituales, ceremonias y usos simbólicos, con significado cultural.
+          </li>
+          <tr>
+            <td style="text-align: left">Lúdico</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+         Lúdico: Táxon usado para atividades com propósito recreativo ou educativo. 
+          <li>
+         Playful: Taxon used for activities with recreational or educational purposes.
+          </li>
+          <li>
+         Lúdico: Taxón usado para actividades con fines recreativos o educativos.
+          </li>
+          <tr>
+            <td style="text-align: left">Cuidados pessoais</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+        Cuidados pessoais: Táxon usados na produção de cosméticos ou em práticas que promovam higiene, bem-estar ou com finalidade estética.
+          <li>
+         Personal care: Táxon usados na produção de cosméticos ou em práticas que promovam higiene, bem-estar ou com finalidade estética.
+          </li>
+          <li>
+         Cuidados personales: Taxón usado en la producción de cosméticos o en prácticas que promuevan higiene, bienestar o con fines estéticos.
+          </li>
+          <tr>
+            <td style="text-align: left">Químico</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+        Químico: Táxon usado para produzir compostos químicos que servem como matéria-prima. Inclui plantas utilizadas para extração de óleos essenciais, corantes, resinas, gomas, alcaloides e outros compostos.
+          <li>
+         Chemical: Taxon used to produce chemical compounds that serve as raw materials. Includes plants used for the extraction of essential oils, dyes, resins, gums, alkaloids, and other compounds.
+          </li>
+          <li>
+         Químico: Taxón utilizado para producir compuestos químicos que sirven como materia prima. Incluye plantas utilizadas para la extracción de aceites esenciales, colorantes, resinas, gomas, alcaloides y otros compuestos.
+          </li>
+           <tr>
+            <td style="text-align: left">Outros</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+        Outros: Usos não contemplados nas categorias establecidas.
+          <li>
+        Others: Uses not covered by the other established categories.
+          </li>
+          <li>
+         Otros: Usos no contemplados en las demás categorías establecidas.
           </li>
         </ul>
       </td>
