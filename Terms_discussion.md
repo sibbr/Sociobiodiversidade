@@ -247,19 +247,20 @@ Para cada termo apresentado:
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/3">organismPart</a>
     </th>
   </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dcterms:modified"
-        >https://dwc.tdwg.org/terms/#dcterms:modified</a
-      >
-    </td>
-  </tr>
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A parte específica do táxon à qual o nome de uso se refere. Se o táxon estiver associado a múltiplos usos, cada parte deve ser documentada em uma linha separada correspondente ao mesmo taxonID.
+      <ul> 
+        <li>
+        PT: A parte específica do táxon à qual o nome de uso se refere. Se o táxon estiver associado a múltiplos usos, cada parte deve ser documentada em uma linha separada correspondente ao mesmo taxonID.
+       </li> 
+        <li>
+          EN: The specific part of the táxon to which the use name refers. If the taxon is associated with multiple uses, each part should be documented in a separate row corresponding to the same taxonID.
+        </li>
+        <li>
+          ES: La parte específica del taxón a la que se refiere el nombre de uso. Si el taxón está asociado a múltiples usos, cada parte debe documentarse en una fila separada correspondiente al mismo taxonID.
+        </li>
       </td>
     </tr>
     <tr>
@@ -267,10 +268,68 @@ Para cada termo apresentado:
       <td style="text-align: left">Planta Inteira | Sementes | Raízes | Caules | Cascas | Folhas | Flores | Frutos | Exudados | Partes aéreas não especificadas | Galhas | Mudas ou sementes germinadas | Outras partes de planta </td>
     </tr>
     <tr>
+      <td style="text-align: left">Planta Inteira</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Planta inteira:  Planta completa, incluindo todas as suas partes (raízes, caule, folhas, flores, frutos e sementes), sem especificar apenas um elemento.</li>
+          <li>Whole Plant:Entire plant, including all its parts (roots, stem, leaves, flowers, fruits, and seeds), without specifying a single element. </li>
+          <li>Planta entera: Planta completa, que incluye todas sus partes (raíces, tallo, hojas, flores, frutos y semillas), sin especificar un solo elemento.</li>
+        </ul>
+        <tr>
+      <td style="text-align: left">Sementes</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Sementes</li>
+          <li>Seeds</li>
+          <li>Semillas</li>
+          <tr>
+      <td style="text-align: left">Raízes</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Raízes</li>
+          <li>Roots</li>
+          <li>Raíces</li>
+          <tr>
+      <td style="text-align: left">Caules</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Caules</li>
+          <li>Stems</li>
+          <li>Tallos</li>
+          <tr>
+      <td style="text-align: left">Cascas</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Cascas</li>
+          <li>Peel</li>
+          <li>Cáscara</li>
+          <tr>
+      <td style="text-align: left">Folhas</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Folhas</li>
+          <li>Leaves</li>
+          <li>Hojas</li>
+          <tr>
+      <td style="text-align: left">Flores</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Flores</li>
+          <li>Flowers</li>
+          <li>Flores</li>
+          <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
           <li>Sementes</li>
+          <li>Raízes</li>
+          <li>Raízes</li>
+          <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Sementes</li>
+          <li>Raízes</li>
           <li>Raízes</li>
         </ul>
       </td>
