@@ -216,7 +216,12 @@ Para cada termo apresentado:
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
-      <td style="text-align: left">Expande a explicação do propósito de uso do táxon, descrevendo o uso de forma mais específica.</td>
+      <td style="text-align: left">
+        <ul>
+          <li>PT:  Expande a explicação do propósito de uso do táxon, descrevendo o uso de forma mais específica. </li>
+          <li>EN:  Expands the explanation of the purpose of use of the taxon, describing the use in a more specific way.</li>
+          <li>ES: xpande la explicación del propósito de uso del taxón, describiendo el uso de forma más específica. </li>
+          </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
@@ -376,19 +381,24 @@ Para cada termo apresentado:
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
-      <td style="text-align: left">A descrição da parte específica do táxon a qual se aplica o uso do táxon.</td>
+      <td style="text-align: left">
+        <ul>
+          <li>PT: A descrição da parte específica do táxon a qual se aplica o uso do táxon.</li>
+          <li>EN: The description of the specific part of the táxon to which the use applies.</li>
+          <li>ES: La descripción de la parte específica del taxón a la que se aplica el uso.</li>
+        </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">pt | en | es</td>
+      <td style="text-align: left">[Descrição da parte]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>pt: Português</li>
-          <li>en: Inglês</li>
-          <li>es: Espanhol</li>
+          <li></li>
+          <li></li>
+          <li></li>
         </ul>
       </td>
     </tr>
@@ -408,36 +418,20 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A forma como a parte específica do táxon é utilizada, sua preparação ou método de aplicação. Se a mesma parte estiver associada a múltiplos usos, cada forma de uso deve ser documentada em uma linha separada correspondente ao mesmo taxonID e organismPart.
+        <ul>
+          <li>PT: A forma como a parte específica do táxon é utilizada, sua preparação ou método de aplicação. Se a mesma parte estiver associada a múltiplos usos, cada forma de uso deve ser documentada em uma linha separada correspondente ao mesmo taxonID e organismPart.</li>
+          <li>EN:The form in which the specific part of the táxon is used, its preparation, or application method. If the same part is associated with multiple uses, each form of use should be documented in a separate row corresponding to the same taxonID and organismPart.</li>
+          <li>ES: La forma en que se utiliza la parte específica del taxón, su preparación o método de aplicación. Si la misma parte está asociada a múltiples usos, cada forma de uso debe documentarse en una fila separada correspondiente al mismo taxonID y organismPart.</li>      
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">CC0 | CC BY | CC BY - NC</td>
+      <td style="text-align: left">[Descrição]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <a href="https://sibbr.gov.br/page/termo-de-uso-de-dados.html"
-              >Termo de uso SiBBr</a
-            >
-          </li>
-          <li>
-            <a href="https://sibbr.gov.br/page/licenca-uso.html">Licença CC0</a>
-          </li>
-          <li>
-            <a href="https://sibbr.gov.br/page/licenca-uso.html"
-              >Licença CC BY</a
-            >
-          </li>
-          <li>
-            <a href="https://sibbr.gov.br/page/licenca-uso.html"
-              >Licença CC BY - NC</a
-            >
-          </li>
-          <li><a href="https://www.gbif.org/pt/terms">Creative Commons</a></li>
         </ul>
       </td>
     </tr>
@@ -459,13 +453,16 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Descrição detalhada da forma de uso da parte específica do táxon, incluindo etapas de preparação, dosagem, frequência, modo de aplicação e quaisquer variações culturais ou regionais relevantes. Esta descrição pode expandir a informação registrada em usedForm.
+        <ul>
+          <li>PT: Descrição detalhada da forma de uso da parte específica do táxon, incluindo etapas de preparação, dosagem, frequência, modo de aplicação e quaisquer variações culturais ou regionais relevantes. Esta descrição pode expandir a informação registrada em usedForm.</li>
+        <li>EN: A detailed description of the way the specific part of the taxon is used, including preparation steps, dosage, frequency, method of application, and any relevant cultural or regional variations. This description can expand on the information recorded in usedForm.</li>
+          <li>ES: Una descripción detallada de la forma en que se utiliza la parte específica del taxón, incluyendo pasos de preparación, dosis, frecuencia, método de aplicación y cualquier variación cultural o regional relevante. Esta descripción puede ampliar la información registrada en usedForm. </li>
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        [Nome completo do pesquisador ou instituição]
+        [Descrição detalhada]
       </td>
     </tr>
     <tr>
@@ -872,13 +869,6 @@ Para cada termo apresentado:
         >locality</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:locality"
-        >https://dwc.tdwg.org/terms/#dwc:locality</a
-      >
     </td>
   </tr>
   <tbody>
@@ -916,13 +906,6 @@ Para cada termo apresentado:
         >recordedBy</a
       >
     </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:recordedBy"
-        >https://dwc.tdwg.org/terms/#dwc:recordedBy</a
-      >
     </td>
   </tr>
   <tbody>
