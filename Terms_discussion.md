@@ -211,12 +211,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dc:type"
-        >https://dwc.tdwg.org/terms/#dc:type</a
-      >
-    </td>
+   </td>
   </tr>
   <tbody>
     <tr>
