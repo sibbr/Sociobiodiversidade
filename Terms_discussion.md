@@ -642,8 +642,8 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:institutionCode"
-        >https://dwc.tdwg.org/terms/#dwc:institutionCode</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:locality"
+        >https://dwc.tdwg.org/terms/#dwc:locality</a
       >
     </td>
   </tr>
@@ -686,8 +686,8 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:collectionCode"
-        >https://dwc.tdwg.org/terms/#dwc:collectionCode</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:recordedBy"
+        >https://dwc.tdwg.org/terms/#dwc:recordedBy</a
       >
     </td>
   </tr>
@@ -799,7 +799,7 @@ Para cada termo apresentado:
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:basisOfRecord"
+      <a href="https://dwc.tdwg.org/terms/#dwc:language"
         >https://dwc.tdwg.org/terms/#dwc:language</a
       >
     </td>
@@ -880,7 +880,7 @@ Para cada termo apresentado:
   <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/18"
-        >dataGeneralizations</a
+        >associatedMedia</a
       >
     </th>
   </tr>
@@ -888,7 +888,7 @@ Para cada termo apresentado:
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
       <a href="https://dwc.tdwg.org/terms/#dwc:associatedMedia"
-        >https://dwc.tdwg.org/terms/#dwc:dataGeneralizations</a
+        >https://dwc.tdwg.org/terms/#dwc:associatedMedia</a
       >
     </td>
   </tr>
@@ -918,12 +918,12 @@ Para cada termo apresentado:
 </table>
 
 ---
-#### literaturereferences or associatedreferences
+#### literaturereferences or associatedReferences
 <table>
   <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/19"
-        >dynamicProperties</a
+        >associatedReferences</a
       >
     </th>
   </tr>
