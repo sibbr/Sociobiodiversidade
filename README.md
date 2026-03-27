@@ -73,15 +73,14 @@ This project develops a standardized framework for documenting sociobiodiversity
 ### Directory Descriptions
 
 - **vocabulary/**: Contains the authoritative vocabulary source file (`term_versions.csv`) with the complete history of all terms
-- **build/**: Python scripts, Jupyter notebooks, and templates for processing vocabulary and generating documentation
-- **dist/**: Auto-generated distribution files in various formats (not edited manually)
 - **docs/**: Markdown source files for the Jekyll documentation site
 - **reports/**: Technical implementation documentation and case studies
 
-
 ## How to Use and Validate
 
-### Basic Vocabulary Access
+https://sibbr.gov.br/page/dados-da-sociobiodiversidade.html
+
+### Vocabulary Access
 
 The vocabulary, definitions, and translations are available in the `vocabulary/` directory. The documents include:
 
@@ -91,80 +90,26 @@ The vocabulary, definitions, and translations are available in the `vocabulary/`
 - **Term: usedByType**: identifies the type of actor or community that uses the resource (e.g., local community, indigenous group)  
 - **Term: usedTo**: specifies the purpose or type of use of the resource (e.g., medicinal, food, ritual)  
 
-### Viewing Terms
-
-To view available terms, check the generated documentation files in `dist/` or visit the website documentation in `docs/`.
-
-## Use Cases
-
-1. **Use Case 1**: XXXXX
-2. **Use Case 2**: XXXX
-3. **Use Case 3**: XXXXX
-
 ## Contributing
 
 We welcome contributions from researchers, indigenous communities, conservation practitioners, and data specialists. Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
 
-### Types of Contributions
-
-- New terms or improvements to existing terminology
-- Documentation and case studies
-- Translations and multilingual adaptations
-- Implementation experiences and feedback
-- Code improvements and build scripts
-
-## Ethical Principles
-
-This project adheres to:
-
-- **CARE Principles**: Collective Benefit, Authority to Decide, Responsibility, Ethics
-- **Nagoya Protocol**: Fair and equitable benefit-sharing from genetic resources
-- **Free, Prior, and Informed Consent (FPIC)**: Respect for community rights and knowledge
-- **Open Access**: While respecting cultural sensitivities and community protocols
-
-## Related Standards
+## Other information
 
 - [Darwin Core](https://dwc.tdwg.org/) - Biodiversity data standard
 - [Nagoya Protocol](https://www.cbd.int/abs/) - Access and benefit-sharing framework
 - [GBIF](https://www.gbif.org/) - Global biodiversity information facility
 - [WIPO](https://www.wipo.int/) - Intellectual property protection
-
-## References
-
-The development of this standard was informed by:
-
-1. **CESP-SIBBR Project**: Collaborative effort to create data standards for socio-biodiversity in Brazil (2024-2026)
-2. **SIBBR Network**: Sistema de Informação sobre a Biodiversidade Brasileira
-3. **TDWG Community**: Taxonomic Databases Working Group standards
+- CESP SiBBr
+- TDWG
 
 ## License
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
-
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-Provided you give appropriate credit and indicate any changes made.
-
-See [LICENSE](LICENSE) for full details.
-
 ## Contact and Support
 
-For questions, suggestions, or to contribute:
-
 - Open an issue on GitHub
-- Check the [documentation](docs/) for detailed guides
-- Review case studies in [reports/](reports/) for implementation examples
-
-## Acknowledgments
-
-This project was developed with support from:
-- Sistema de Informação sobre a Biodiversidade Brasileira (SIBBR)
-- Taxonomic Databases Working Group (TDWG)
-- Biodiversity Heritage Library
-- Indigenous communities and traditional knowledge holders
-- Conservation and research institutions across South America
+- Entra em contato com o SiBBr
+  
 
 ---
 
