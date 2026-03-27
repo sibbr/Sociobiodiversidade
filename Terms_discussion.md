@@ -272,7 +272,7 @@ Para cada termo apresentado:
       <td style="text-align: left">
         <ul>
           <li>Planta inteira:  Planta completa, incluindo todas as suas partes (raízes, caule, folhas, flores, frutos e sementes), sem especificar apenas um elemento.</li>
-          <li>Whole Plant:Entire plant, including all its parts (roots, stem, leaves, flowers, fruits, and seeds), without specifying a single element. </li>
+          <li>Whole Plant: Entire plant, including all its parts (roots, stem, leaves, flowers, fruits, and seeds), without specifying a single element. </li>
           <li>Planta entera: Planta completa, que incluye todas sus partes (raíces, tallo, hojas, flores, frutos y semillas), sin especificar un solo elemento.</li>
         </ul>
         <tr>
@@ -293,76 +293,76 @@ Para cada termo apresentado:
       <td style="text-align: left">Caules</td>
       <td style="text-align: left">
         <ul>
-          <li>Caules</li>
-          <li>Stems</li>
-          <li>Tallos</li>
+          <li>Caules: Haste das plantas; parte que liga as raízes às folhas. Inclui plúmulas, galhos folhosos e desfolhados, estolão, tronco, madeira, alburno, cerne, gavinhas, espinhos e outras partes do caule.</li>
+          <li>Stems: Stem of the plant; the part that connects the roots to the leaves. Includes shoots, leafy and leafless branches, stolons, trunk, wood, sapwood, heartwood, tendrils, thorns, and other stem parts.</li>
+          <li>Tallos: Tallo de la planta; la parte que conecta las raíces con las hojas. Incluye brotes, ramas con y sin hojas, estolones, tronco, madera, albura, duramen, zarcillos, espinas y otras partes del tallo.</li>
           <tr>
       <td style="text-align: left">Cascas</td>
       <td style="text-align: left">
         <ul>
-          <li>Cascas</li>
-          <li>Peel</li>
-          <li>Cáscara</li>
+          <li>Cascas: Porção mais externa do tronco e ramos de uma árvore, geralmente de textura corticosa. Inclui casca do caule, casca interna, casca da raiz e outras partes da casca.</li>
+          <li>Peel: Outermost portion of the trunk and branches of a tree, usually with a corky texture. Includes stem bark, inner bark, root bark, and other bark parts.</li>
+          <li>Cáscara: Parte más externa del tronco y de las ramas de un árbol, generalmente con textura corchosa. Incluye corteza del tallo, corteza interna, corteza de la raíz y otras partes de la corteza.</li>
           <tr>
       <td style="text-align: left">Folhas</td>
       <td style="text-align: left">
         <ul>
-          <li>Folhas</li>
-          <li>Leaves</li>
-          <li>Hojas</li>
+          <li>Folhas: Órgão lateral que nasce sobre o eixo principal (caule) ou sobre seus ramos e tem crecimento limitado; é em geral laminar, verde e tem como principal função a fotossíntese. Inclui cotilédones, folhas novas, velhas e caídas, folíolos, estípulas, lâminas, botôes e outras partes da folha.</li>
+          <li>Leaves: Lateral organ that grows from the main stem or its branches, with limited growth. It is usually flat, green, and mainly responsible for photosynthesis. Includes cotyledons, young, old and fallen leaves, leaflets, stipules, blades, buds, and other leaf parts.</li>
+          <li>Hojas: Órgano lateral que crece sobre el tallo principal o sus ramas, con crecimiento limitado. Generalmente es plano, verde y su función principal es la fotosíntesis. Incluye cotiledones, hojas jóvenes, viejas y caídas, folíolos, estípulas, láminas, yemas y otras partes de la hoja.</li>
           <tr>
       <td style="text-align: left">Flores</td>
       <td style="text-align: left">
         <ul>
-          <li>Flores</li>
-          <li>Flowers</li>
-          <li>Flores</li>
+          <li>Flores: Estrutura reprodutiva das angiospermas e gminospermas, composta por partes que protegem e que atraem polinizadores e por partes reprodutivas. Inclui brácteas, espatas, espadices, flores, botões de flores, pedúnculos, receptáculos, cálices, corolas, androceu, estames, pólen, gineceu/pistilos, estilete/estigmas e outras partes das flores.</li>
+          <li>Flowers: Reproductive structure of angiosperms and gymnosperms, made up of parts that protect, attract pollinators, and carry out reproduction. Includes bracts, spathes, spadices, flowers, flower buds, peduncles, receptacles, calyxes, corollas, androecium, stamens, pollen, gynoecium/pistils, styles/stigmas, and other flower parts.</li>
+          <li>Flores: Estructura reproductiva de las angiospermas y gimnospermas, compuesta por partes que protegen, atraen polinizadores y realizan la reproducción. Incluye brácteas, espatas, espádices, flores, botones florales, pedúnculos, receptáculos, cálices, corolas, androceo, estambres, polen, gineceo/pistilos, estilos/estigmas y otras partes de la flor.</li>
           <tr>
       <td style="text-align: left">Frutos</td>
       <td style="text-align: left">
         <ul>
-          <li>Frutos</li>
-          <li>Fruits</li>
-          <li>Frutos</li>
+          <li>Frutos: Ovário (um ou mais de um) fecundado e desenvolvido, com ou sem semente. Inclui frutos maduros e imaturos, polpa, suco, epicarpo e outras partes dos frutos.</li>
+          <li>Fruits: Fertilized and developed ovary (one or more), with or without seeds. Includes ripe and unripe fruits, pulp, juice, epicarp, and other fruit parts.</li>
+          <li>Frutos: Ovario (uno o más) fecundado y desarrollado, con o sin semillas. Incluye frutos maduros e inmaduros, pulpa, jugo, epicarpio y otras partes del fruto.</li>
           <tr>
       <td style="text-align: left">Exsudatos</td>
       <td style="text-align: left">
         <ul>
-          <li>Exsudato</li>
-          <li>Exudates</li>
-          <li>Exudados</li>
+          <li>Exsudatos: Substâncias naturais secretadas por diferentes partes da planta, que podem ser líquidas, semissólidas ou sólidas. Inclui seiva, látex, resinas, gomas e néctar, com funções protetivas, nutritivas ou de atração de polinizadores.</li>
+          <li>Exudates: Natural substances secreted by different parts of the plant, which may be liquid, semi-solid, or solid. Includes sap, latex, resins, gums, and nectar, serving protective, nutritive, or pollinator-attracting functions.</li>
+          <li>Exudados: Sustancias naturales secretadas por diferentes partes de la planta, que pueden ser líquidas, semisólidas o sólidas. Incluye savia, látex, resinas, gomas y néctar, con funciones protectoras, nutritivas o de atracción de polinizadores.</li>
         </ul>
         <tr>
       <td style="text-align: left">Partes aéreas não especificadas</td>
       <td style="text-align: left">
         <ul>
-          <li>Partes aéreas não especificadas</li>
-          <li>Unspecified aerial part</li>
-          <li>Parte aérea no especificada</li>
+          <li>Partes aéreas não especificadas: Qualquer porção da planta localizada acima do solo que não foi detalhadamente identificada.</li>
+          <li>Unspecified aerial part: Any part of the plant located above the ground that has not been specifically identified.</li>
+          <li>Parte aérea no especificada: Cualquier parte de la planta situada por encima del suelo que no haya sido identificada con precisión.</li>
         </ul>
            <tr>
       <td style="text-align: left">Galhas</td>
       <td style="text-align: left">
         <ul>
-          <li>Galhas</li>
-          <li>Galls</li>
-          <li>Agallas</li>
+          <li>Galhas:  Formação ou inchaço anormal em alguma parte da planta, causado pela ação de insetos, fungos, bactérias ou nematoides. Essas estruturas se desenvolvem como resposta da planta ao ataque e podem aparecer em folhas, raízes, caules, frutos ou outras partes.</li>
+          <li>Galls: Abnormal growth or swelling on a plant part, caused by insects, fungi, bacteria, or nematodes. These structures develop as the plant’s response to the attack and may appear on leaves, roots, stems, fruits, or other parts.</li>
+          <li>Agallas: Crecimiento o hinchazón anormal en alguna parte de la planta, causado por insectos, hongos, bacterias o nematodos. Estas estructuras se desarrollan como respuesta de la planta al ataque y pueden aparecer en hojas, raíces, tallos, frutos u otras partes.</li>
         </ul>
            <tr>
       <td style="text-align: left"> Mudas ou sementes germinadas</td>
       <td style="text-align: left">
         <ul>
-          <li>Mudas ou sementes germinadas</li>
-          <li>Seedlings or germinated seeds</li>
-          <li>Plántulas o semillas germinadas</li>
+          <li>Mudas ou sementes germinadas: Plantas jovens obtidas a partir de sementes germinadas ou mudas recém-propagadas, ainda em fase inicial de desenvolvimento.</li>
+          <li>Seedlings or germinated seeds: Young plants obtained from germinated seeds or recently propagated seedlings, still in their early development stage.</li>
+          <li>Plántulas o semillas germinadas: Plantas jóvenes obtenidas a partir de semillas germinadas o plántulas recién propagadas, aún en etapa inicial de desarrollo.</li>
         </ul>
            <tr>
       <td style="text-align: left">Outras partes da planta</td>
       <td style="text-align: left">
         <ul>
-          <li>Outras partes da planta</li>
-          <li>Other plant parts</li>
-          <li>Otras partes de la planta</li>
+          <li>Outras partes da planta: Porções da planta que não se enquadram nas categorias convencionais, podendo incluir estruturas especializadas ou secundárias.</li>
+          <li>Other plant parts: Plant parts that do not fit into conventional categories, which may include specialized or secondary structures.</li>
+          <li>Otras partes de la planta: Partes de la planta que no encajan en categorías convencionales, y pueden incluir estructuras especializadas o secundarias.</li>
         </ul>
       </td>
     </tr>
