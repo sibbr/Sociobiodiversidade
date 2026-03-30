@@ -207,7 +207,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/2">usedToRemarks</a>
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/2">usedToRemarks</a>
     </th>
   </tr>
   <tr>
@@ -244,7 +244,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/3">organismPart</a>
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/3">organismPart</a>
     </th>
   </tr>
   <tbody>
@@ -374,7 +374,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/4">organismPartDescription</a>
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/4">organismPartDescription</a>
     </th>
      </td>
   </tr>
@@ -410,7 +410,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/5">usedForm</a>
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/5">usedForm</a>
     </th>
     </td>
   </tr>
@@ -443,7 +443,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/6"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/6"
         >usedFormDescription</a
       >
     </th>
@@ -496,7 +496,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/7"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/7"
         >usedByHolder</a
       >
     </th>
@@ -548,7 +548,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/8"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/8"
         >usedByType</a
       >
     </th>
@@ -585,7 +585,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/9"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/9"
         >usedByDescription</a
       >
     </th>
@@ -633,7 +633,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/9"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/9"
         >sourceType</a
       >
     </th>
@@ -743,7 +743,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/10"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/10"
         >sourceDescription</a
       >
     </th>
@@ -783,7 +783,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/11"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/11"
         >usedWhere</a
       >
     </th>
@@ -823,7 +823,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/12"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/12"
         >temporal | UsedWhen</a
       >
     </th>
@@ -865,7 +865,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/13"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/13"
         >locality</a
       >
     </th>
@@ -902,7 +902,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/14"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/14"
         >recordedBy</a
       >
     </th>
@@ -955,7 +955,7 @@ Para cada termo apresentado:
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/55"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/55"
         >eventDate</a
       >
     </th>
@@ -1008,7 +1008,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/16"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/16"
         >language</a
       >
     </th>
@@ -1054,7 +1054,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/17"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/17"
         >references</a
       >
     </th>
@@ -1096,7 +1096,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/18"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/18"
         >associatedMedia</a
       >
     </th>
@@ -1139,7 +1139,7 @@ Para cada termo apresentado:
 <table>
   <tr ="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/19"
+      <a href="https://github.com/sibbr/Sociobiodiversidade/issues/19"
         >associatedReferences</a
       >
     </th>
