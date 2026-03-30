@@ -765,7 +765,10 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Descrição da fonte por meio da qual se obteve a informação sobre o uso.
+        <ul>
+          <li>PT: Descrição da fonte por meio da qual se obteve a informação sobre o uso.</li>
+        <li> EN: Description of the source through which the information about the use is obtained.</li>
+          <li>ES: Descripción de la fuente por medio de la cual se obtiene la información sobre el uso.</li>
       </td>
     </tr>
     <tr>
@@ -800,7 +803,10 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Refere-se a uma região espacial ou local específico onde o táxon é ou era usado.
+        <ul>
+          <li>PT: Refere-se a uma região espacial ou local específico onde o táxon é ou era usado. </li>
+        <li> EN: Refers to a spatial region or specific place where the taxon is or was used. </li>
+          <li>ES: Se refiere a una región espacial o un lugar específico donde se utiliza o utilizava el taxón. </li>
       </td>
     </tr>
     <tr>
@@ -835,20 +841,22 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-         Contexto temporal em que o organismo é ou era usado.
+        <ul>
+          <li> PT: Contexto temporal em que o organismo é ou era usado.</li>
+          <li>EN: Temporal context when organism is or was used. </li>
+          <li>ES: Contexto temporal en el que el organismo es o era utilizado.</li>
+        
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Instituição]:[Programa]:[Projeto]</td>
+      <td style="text-align: left">[Contexto]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>RENOVA:RENOVA:PMBA:P164</li>
-          <li>ICMBio:ICMBio:SALVE:37463</li>
-          <li>ICMBio:Sisbio:XXXXX</li>
+          <li>Século 20, 1950.</li>
         </ul>
       </td>
     </tr>
@@ -870,23 +878,22 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-      Descrição específica da área de onde a informação foi coletada.
+        <ul>
+          <li>PT: Descrição específica da área de onde a informação foi coletada.</li>
+          <li>EN: The specific description of the area where the information was collected. </li>
+          <li>ES: Descripción específica del área donde se recopiló la información. </li>
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Acrônimo da instituição]</td>
+      <td style="text-align: left">[Descrição da área]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>UFPR</li>
-          <li>MZUSP</li>
-          <li>EMBRAPA</li>
-          <li>INPA</li>
-          <li>MPEG</li>
-        </ul>
+          <li>Pataxó Indigenous Village, Porto Seguro, BA, Brasil.</li>
+          </ul>
       </td>
     </tr>
   </tbody>
@@ -907,36 +914,21 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-       Identifica a pessoa, pessoas, grupos ou organizações responsáveis por registrar a ocorrência original de uso do táxon.
+        <ul>
+          <li>PT: Identifica a pessoa, pessoas, grupos ou organizações responsáveis por registrar a ocorrência original de uso do táxon. </li>
+          <li>EN: Identifies the person, people, groups, or organizations responsible for recording the original occurrence of the taxon use.</li>
+          <li>ES: Identifica a la persona, personas, grupos u organizaciones responsables de registrar la ocurrencia original del uso del taxón. </li>     
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Sobrenome, Inicial nome]</td>
+      <td style="text-align: left">[Nome do pesquisador]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-              <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
-              >Marquete, R</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
-              >	Ribeiro, F. Juliana | Vieira, E. Emerson</a
-            >
-          </li>
-          <li>
-              <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/34c20a2b-f1b3-4db3-adcd-f6fddbf534b1"
-              >Zikan, J.F.</a
-            <
-            </li>
-              <li>
+        <li>
                 Clara Baringo
               </li>
         </ul>
@@ -962,8 +954,11 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A data ou intervalo de datas em que a informação foi documentada, independentemente de quando o fenômeno, prática ou conhecimento associado ocorreu originalmente.
-      </td>
+        <ul>
+          <li>PT:A data ou intervalo de datas em que a informação foi documentada, independentemente de quando o fenômeno, prática ou conhecimento associado ocorreu originalmente. </li>
+          <li>EN: The date or range of dates when the information was documented, regardless of when the associated phenomenon, practice, or knowledge originally occurred.</li>
+          <li>ES: La fecha o el rango de fechas en que se documentó la información, independientemente de cuándo ocurrió originalmente el fenómeno, la práctica o el conocimiento asociado. </li>
+        </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
@@ -973,20 +968,12 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li> Data com ano: 1890 </li>
           <li>
-            <a
-              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e9c03e9b-1c42-4bc3-97c5-b6eec03867c4"
-              >Data com ano: 1890 </a>
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-              > Data com ano e mês: 2006-04 </a>
+           Data com ano e mês: 2006-04
             </li>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
-            >Data completa: 2022-04-21</a>
+            Data completa: 2022-04-21
           </li>
               </ul>
       </td>
@@ -1011,7 +998,10 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Idioma em que está registrada a informação.
+        <ul>
+        <li>PT: Idioma em que está registrada a informação. </li>
+        <li>EN: Language in which the information is recorded. </li>
+        <li>ES: Idioma en el que está registrada la información.</li>
       </td>
     </tr>
     <tr>
@@ -1051,7 +1041,9 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um recurso relacionado ao uso do táxon que é referenciado, citado ou indicado na informação coletada.
+        <ul>
+          <li>PT: Um recurso relacionado ao uso do táxon que é referenciado, citado ou indicado na informação coletada.</li>
+       <li>EN: </li>
       </td>
     </tr>
     <tr>
