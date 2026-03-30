@@ -749,12 +749,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:institutionID"
-        >https://dwc.tdwg.org/terms/#dwc:institutionID</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
@@ -789,12 +784,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:collectionID"
-        >https://dwc.tdwg.org/terms/#dwc:collectionID</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
@@ -829,12 +819,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:datasetID"
-        >https://dwc.tdwg.org/terms/#dwc:datasetID</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
@@ -961,12 +946,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventDate"
-        >https://dwc.tdwg.org/terms/#dwc:eventDate</a
-      >
-    </td>
+   </td>
   </tr>
   <tbody>
     <tr>
@@ -1015,12 +995,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:language"
-        >https://dwc.tdwg.org/terms/#dwc:language</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
@@ -1060,13 +1035,7 @@ Para cada termo apresentado:
       >
     </th>
   </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:references"
-        >https://dwc.tdwg.org/terms/#dwc:references</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
@@ -1103,13 +1072,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:associatedMedia"
-        >https://dwc.tdwg.org/terms/#dwc:associatedMedia</a
-      >
-    </td>
-  </tr>
+   </tr>
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
@@ -1146,12 +1109,7 @@ Para cada termo apresentado:
     </th>
   </tr>
   <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:dynamicProperties"
-        >https://dwc.tdwg.org/terms/#dwc:dynamicProperties</a
-      >
-    </td>
+  </td>
   </tr>
   <tbody>
     <tr>
