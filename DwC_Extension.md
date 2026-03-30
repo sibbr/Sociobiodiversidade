@@ -506,7 +506,11 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Identifica a comunidade, grupo, instituição ou entidade que detém o conhecimento tradicional associado ao táxon e que pode ou não utilizar o recurso biológico ou o benefício derivado.
+        <ul>
+       <li>PT: Identifica a comunidade, grupo, instituição ou entidade que detém o conhecimento tradicional associado ao táxon e que pode ou não utilizar o recurso biológico ou o benefício derivado.</li>
+        <li>EN:Identifies the community, group, institution, or entity that holds the traditional knowledge associated with the taxon and that may or may not use the biological resource or the derived benefit.</li>
+          <li>ES:
+            Identifica a la comunidad, grupo, institución o entidad que posee el conocimiento tradicional asociado al taxón y que puede o no utilizar el recurso biológico o el beneficio derivado.</li>
       </td>
     </tr>
     <tr>
@@ -558,7 +562,10 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A categoria ou segmento da comunidade, grupo ou organização que faz uso do táxon para um ou mais propósitos.
+        <ul>
+          <li>PT>: A categoria ou segmento da comunidade, grupo ou organização que faz uso do táxon para um ou mais propósitos. </li>
+       <li>EN: The category or segment of the community, group, or organization that makes use of the taxon for one or more purposes.</li>
+          <li>ES: La categoría o segmento de la comunidad, grupo u organización que hace uso del taxón para uno o varios fines.</li>
       </td>
     </tr>
     <tr>
@@ -595,7 +602,10 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-       Descrição do usuário dentro da comunidade que utiliza o organismo para um ou múltiplos propósitos.
+        <ul>
+          <li>PT: Descrição do usuário dentro da comunidade que utiliza o organismo para um ou múltiplos propósitos.</li>
+     <li>EN: Description of the user within the community who uses the organism for one or multiple purposes.</li>
+          <li>ES: Descripción del usuario dentro de la comunidad que utiliza el organismo para uno o varios fines. </li>
       </td>
     </tr>
     <tr>
