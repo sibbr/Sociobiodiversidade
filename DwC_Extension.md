@@ -1003,6 +1003,7 @@ Para cada termo apresentado:
     </tr>
   </tbody>
 </table>
+
 ---
 #### language
 <table>
